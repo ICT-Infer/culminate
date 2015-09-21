@@ -1,2 +1,2 @@
 # culminate
-Progress tracker with milestones
+Milestone progress tracker
