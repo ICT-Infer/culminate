@@ -1,2 +1,2 @@
 # culminate
-Future key point event managment
+Key point event timeline
